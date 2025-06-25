@@ -1,0 +1,16 @@
+name: SlotMachine
+main: SlotMachine\Main
+version: 1.0.0
+api: 5.0.0
+author: YourName
+description: Mesin slot interaktif untuk PocketMine-MP
+
+commands:
+  slot:
+    description: Slot machine command
+    permission: slotmachine.command
+    usage: slot givewand
+
+permissions:
+  slotmachine.command:
+    default: op

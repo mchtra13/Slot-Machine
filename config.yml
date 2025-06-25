@@ -1,0 +1,17 @@
+bet_options: [10, 50, 100]
+reward_multiplier: 3
+
+messages:
+  tap_to_spin: "§aTap tombol untuk bermain slot!"
+  choose_bet: "§ePilih jumlah taruhan:"
+  spinning: "§6Slot sedang berputar..."
+  win: "§aSelamat! Kamu menang §f{money}§a koin!"
+  lose: "§cSayang sekali, kamu kalah."
+  not_enough_money: "§cUangmu tidak cukup!"
+  config_saved: "§aPosisi slot berhasil disimpan!"
+  set_slot: "§aSlot #{index} diset!"
+  need_economyapi: "§cPlugin ini membutuhkan EconomyAPI!"
+  missing_slot: "§cSlot belum diset. Gunakan /slot givewand lalu klik 3 titik."
+  invalid_block: "§cKlik tombol yang valid!"
+  bet_cancelled: "§cSpin dibatalkan."
+  armorstand_not_found: "§cArmorStand tidak ditemukan di lokasi slot #{index}!"
